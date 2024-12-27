@@ -73,6 +73,15 @@
                     android:textColor="?attr/colorOnSecondary"
                     android:textSize="30dp"
                     android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/txtkelas2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin"
+                    android:textColor="?attr/colorOnSecondary"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/recyclerView"
